@@ -24,280 +24,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99f43f55-581e-43ce-a58f-bbf5f3b12e28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_json_json_20180813.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_base_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_base_win_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_controls_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_graphics_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_media_14_ea_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_media_win_14_ea_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_web_14_ea_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_web_win_14_ea_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ce2006project_maven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/PM25API.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/PSIAPI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/UVIAPI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/WeatherAPI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/class-use/PM25API.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/class-use/PSIAPI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/class-use/UVIAPI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/class-use/WeatherAPI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/API/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/ShowWeatherInfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/class-use/ShowWeatherInfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/class-use/mainUI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/class-use/profileUI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/class-use/routeUI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/mainUI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/profileUI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Boundary/routeUI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/ProfileManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/RouteManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/WarningLogic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/WeatherManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/class-use/ProfileManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/class-use/RouteManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/class-use/WarningLogic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/class-use/WeatherManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Control/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/Location.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/Profile.Health.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/Profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/WeatherInfo.Weather.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/WeatherInfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/class-use/Location.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/class-use/Profile.Health.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/class-use/Profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/class-use/WeatherInfo.Weather.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/class-use/WeatherInfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Entity/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Error/RequestError.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Error/class-use/RequestError.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Error/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Error/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Error/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Tools/ErrorAlert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Tools/JsonReader.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Tools/Key.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Tools/class-use/ErrorAlert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Tools/class-use/JsonReader.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Tools/class-use/Key.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Tools/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Tools/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Tools/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-17.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-19.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-20.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/member-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/org/openjfx/ce2006project_maven/App.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/org/openjfx/ce2006project_maven/class-use/App.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/org/openjfx/ce2006project_maven/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/org/openjfx/ce2006project_maven/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/org/openjfx/ce2006project_maven/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/overview-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/package-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/resources/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/resources/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/serialized-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/type-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/type-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-json.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/API/PM25API.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/API/PSIAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/API/UVIAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/API/WeatherAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Boundary/ShowWeatherInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Boundary/mainUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Boundary/profileUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Boundary/routeUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Control/ProfileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Control/RouteManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Control/WarningLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Control/WeatherManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entity/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entity/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entity/WeatherInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Error/RequestError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tools/ErrorAlert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tools/JsonReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tools/Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/java-json.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/openjfx/ce2006project_maven/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/googlemaps2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/profile.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/API/PM25API.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/API/PSIAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/API/UVIAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/API/WeatherAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Boundary/ShowWeatherInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Boundary/mainUI$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Boundary/mainUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Boundary/profileUI$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Boundary/profileUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Boundary/routeUI$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Boundary/routeUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Control/ProfileManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Control/RouteManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Control/WarningLogic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Control/WeatherManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Entity/Location.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Entity/Profile$Health.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Entity/Profile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Entity/WeatherInfo$Weather.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Entity/WeatherInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Error/RequestError.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Tools/ErrorAlert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Tools/JsonReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Tools/Key.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/googlemaps2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/openjfx/ce2006project_maven/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/profile.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/null/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/null/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-json.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/API/PM25API.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/API/PSIAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/API/UVIAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/API/WeatherAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Boundary/ShowWeatherInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Boundary/mainUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Boundary/profileUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Boundary/routeUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Control/ProfileManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Control/RouteManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Control/WarningLogic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Control/WeatherManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Entity/Location.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Entity/Profile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Entity/WeatherInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Error/RequestError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Tools/ErrorAlert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Tools/JsonReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Tools/Key.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/org/java-json.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/org/openjfx/ce2006project_maven/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/resources/googlemaps2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/resources/profile.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/API/PM25API.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/API/PSIAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/API/UVIAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/API/WeatherAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Boundary/ShowWeatherInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Boundary/mainUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Boundary/mainUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Boundary/profileUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Boundary/profileUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Boundary/routeUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Boundary/routeUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Control/ProfileManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Control/RouteManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Control/WarningLogic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Control/WeatherManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Entity/Location.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Entity/Profile$Health.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Entity/Profile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Entity/WeatherInfo$Weather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Entity/WeatherInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Error/RequestError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Tools/ErrorAlert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Tools/JsonReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/Tools/Key.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/googlemaps2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/module-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/org/java-json.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/org/openjfx/ce2006project_maven/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/profile.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/null/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/null/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Boundary/routeUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Boundary/routeUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tools/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tools/Key.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/googlemaps2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/googlemaps2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Boundary/routeUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Boundary/routeUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Boundary/routeUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Boundary/routeUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tools/Key.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tools/Key.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googlemaps2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/googlemaps2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,7 +76,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="13" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -359,7 +93,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="org.openjfx.ce2006project_maven.App" />
       <module name="ce2006project_maven" />
       <extension name="coverage">
@@ -377,7 +113,6 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="org.openjfx.ce2006project_maven.App" />
       <module name="ce2006project_maven" />
-      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml " />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.openjfx.ce2006project_maven.*" />
@@ -388,15 +123,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.App (1)" />
-      <item itemvalue="Application.App (2)" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (2)" />
-        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -448,6 +177,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2577" y="53" key="#App_(1)" timestamp="1598517942990">
@@ -462,46 +192,46 @@
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
     <state x="2360" y="8" key="#Project_Structure/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598517626704" />
-    <state x="2168" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598517793022">
+    <state x="2168" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598524949929">
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
-    <state x="2168" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598517793022" />
+    <state x="2168" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598524949929" />
     <state x="2609" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598517565846">
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
     <state x="2609" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598517565846" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1598518111581">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1598535309500">
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598518111581" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1598518111581">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598535309500" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1598535309500">
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598518111581" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1598518111581">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598535309500" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1598535309500">
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598518111581" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1598518111581">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598535309500" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1598535309500">
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598518111581" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1598518111577">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598535309500" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1598529487617">
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598518111577" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1598518111577">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598529487617" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1598529487617">
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598518111577" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1598518111577">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598529487617" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1598529487617">
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598518111577" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1598518111577">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598529487617" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1598529487617">
       <screen x="1920" y="-86" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598518111577" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598529487617" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ce2006project_maven$App.ic" NAME="App Coverage Results" MODIFIED="1598517822799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

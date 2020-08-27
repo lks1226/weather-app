@@ -8,7 +8,7 @@ public class Key {
 	/**
 	 * The API Key
 	 */
-	private static String key = "AIzaSyBy2F1F8P_tQ5_vjDVYh6OpDaze7jMqM2U";
+	private static String key = "AIzaSyAnf_tSmvsib-kfJz6xafgN61ZnqaggiSw";
 	
 	/**
 	 * The method used to get the API Key

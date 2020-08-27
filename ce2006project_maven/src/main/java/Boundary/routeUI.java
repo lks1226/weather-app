@@ -1,6 +1,7 @@
 package Boundary;
 
 import Error.RequestError;
+import Tools.Key;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.concurrent.Worker.State;
@@ -58,6 +59,10 @@ public class routeUI {
 					public void changed(ObservableValue ov, State oldState, State newState) {
         				if (newState == State.SUCCEEDED) {
         					webengine.executeScript("addressInput(\"" + mainUI.start.getName() + "\", \"" + mainUI.end.getName() + "\")");
+							webengine.getDocument().getElementById("main_script").setAttribute(
+									"src",
+									"https://maps.googleapis.com/maps/api/js?key=" + Key.getKey() + "&callback=initMap"
+							);
         				}
         			}
         		}
@@ -67,13 +72,14 @@ public class routeUI {
     	AnchorPane routePane = new AnchorPane();
     	HBox warningHBox = new HBox();
     	ScrollPane reccBox = new ScrollPane();
-    	
+
     	//Route Scene
-        
+
         //Scene Element Properties
-    	webview.setVisible(true);
     	webengine.setJavaScriptEnabled(true);
     	webengine.load(App.class.getResource("/googlemaps2.html").toExternalForm());
+		webview.setVisible(true);
+
     	backHBox2.getChildren().add(backButton2);
     	backHBox2.setPadding(new Insets(10));
     	AnchorPane.setLeftAnchor(backHBox2, 0.0);
